@@ -1,0 +1,12 @@
+# Kubeflow
+kfp
+kfserving
+kfp-server-api
+
+# General loadings
+dask
+ipympl
+ipywidgets
+jupyterlab-git
+protobuf
+cloudpickle
